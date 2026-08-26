@@ -211,7 +211,7 @@ LiDAR-DGCNN-Navigation/
 ├── README.md
 │
 ├── dataset/
-│   └── processed_labeled_v3/
+│   └──ScanNet, pandaset/
 │
 └── results/
     ├── dgcnn_simplified_best.pth
