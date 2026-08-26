@@ -6,7 +6,7 @@ A deep learning-based point-cloud processing project for obstacle detection and 
 
 This project focuses on using 3D LiDAR point-cloud data to identify and classify objects in the surrounding environment. A DGCNN model is trained to learn geometric relationships between neighboring points and perform point-wise semantic segmentation.
 
-he trained model is evaluated on LiDAR point-cloud data to identify navigation-related objects and simulate obstacle warnings.
+The trained model is evaluated on LiDAR point-cloud data to identify navigation-related objects and simulate obstacle warnings.
 
 ## 🎯 Objectives
 
